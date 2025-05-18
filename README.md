@@ -1,2 +1,5 @@
-# blazor-uni-project
-An application for an interior designer developed during "Business Applications Programming" course on uni.
+# Aplikacja dla architekta wnętrz
+
+## Projekt zaliczeniowy na przedmiot *Programowanie Aplikacji Biznesowych*
+
+Skład grupy: Aleksander Folfas, Piotr Gołąb, Wojciech Liberacki
